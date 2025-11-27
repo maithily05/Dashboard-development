@@ -13,11 +13,7 @@ Focus was on usability, data clarity, and real-time insights.
 - Real-time data visualization  
 - Automated reporting and alerts  
 - Interactive filters and drill-downs  
-- Clean, user-friendly interface  
-
-## Screenshots
-![Dashboard Screenshot 1](screenshots/dashboard1.png)  
-![Dashboard Screenshot 2](screenshots/dashboard2.png)  
+- Clean, user-friendly interface   
 
 ## Key Learnings
 - Learned effective dashboard design principles  
